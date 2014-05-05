@@ -1,0 +1,7 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:facebook:facebook-integration.4dbase:facebook-integration[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Documents:facebook:facebook-integration.4dbase:facebook-integration[0000].4BL
+Scheduled : 14/05/05 13:19:29
+Starting : 14/05/05 13:19:29
+Ending : 14/05/05 13:19:29
+
